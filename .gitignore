@@ -9,3 +9,5 @@ __pycache__/
 .env
 *.log
 health-chatbot/backend/venv/
+# Node modules
+health-chatbot/frontend/node_modules/
